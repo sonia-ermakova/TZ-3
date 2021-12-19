@@ -1,4 +1,3 @@
-import random
 from functools import reduce
 from datetime import datetime
 from program import minimum, maximum, addition, multiplication, read_file, data
